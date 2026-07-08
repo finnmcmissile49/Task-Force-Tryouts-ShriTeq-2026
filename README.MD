@@ -1,22 +1,17 @@
-# 🚀 Task Force 2025
-
-Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq! Get ready to tackle interesting problems in a high-octane environment where speed, problem-solving, and adaptability are key to victory.
+# 🚀 Task Force Tryouts 2026
 
 ## 🌟 About the Event  
-**Task Force** is a 2-hour coding showdown where teams of 2 participants will compete to solve a series of 3 programming challenges. With 10 points awarded for each completed task (partial credit possible), and bonus challenges sprinkled throughout, the team with the highest score at the end wins. *Do you have what it takes?*
+**Task Force** is a 45 minute coding showdown where you will compete to solve a programming challenge. With 10 points awarded for each completed task (partial credit possible), and bonus challenges sprinkled throughout, the team with the highest score at the end wins. *Do you have what it takes?*
 
 ---
 
 ## 💼 Event Format  
-- **Tasks**: Teams will receive 3 programming challenges.
-- **Time Limit**: You have 2 hours to complete as many tasks as possible.
+- **Tasks**: Teams will receive 1 programming challenge.
+- **Time Limit**: You have 45 minutes to complete the challenge.
 - **Scoring**:  
   - 10 points for every successfully completed task.  
   - Partial points available for partially completed tasks.  
-  - Bonus points can be earned through fun side challenges like logic puzzles, setting high scores, or debugging code.
   
-> **Note**: Each task will require a different programming language. Prior knowledge of these languages isn't necessary, but participants will need to familiarize themselves during the event.
-
 ---
 
 ## 🧑‍💻 Submitting and Points
@@ -42,8 +37,8 @@ Welcome to **Task Force**, one of the latest and most exciting events at ShriTeq
 ---
 
 ## 📅 Event Dates
-- **Event starts November 5th, 2024**  
-  **5:00 PM onwards**
+- **Event starts 9th July 2026**  
+  **2:30 PM onwards**
 
 ---
 
