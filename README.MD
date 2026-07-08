@@ -18,7 +18,6 @@
 - Submit your work as:
   - Source code for mini projects in a GitHub repository or as a .zip file.
   - Text (.txt) files containing answers to problems, where applicable.
-- Keep an eye out for bonus challenges that can give you an edge over the competition!
 
 ---
 
